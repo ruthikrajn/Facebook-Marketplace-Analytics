@@ -124,4 +124,8 @@ CREATE TABLE users (
 - Guides marketing decisions and budget allocation based on return on
 investment.
 
+# Dashboard 1
+<img src="./dashone.png" />
 
+# Dashboard 2
+<img src="./image.png" />
